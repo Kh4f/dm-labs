@@ -1,8 +1,3 @@
-# Qwick Sort
-# COMPLEXITY:
-# Best case:  O(nlogn)
-# Average:    O(nlogn)
-# Worst case: O(n^2)
 
 w = 5
 
@@ -46,7 +41,7 @@ def select_opt(list, k, left, right):
         dd = d // w
         for i in range(dd):
             start = left + i * w
-            end = start + w - 1
+            end = start + w - 10
             list[start:end+1] = sorted(list[start:end+1])
             list[left+i], list[end] = list[end], list[left+i]
 
@@ -65,6 +60,7 @@ def select_opt(list, k, left, right):
 
 
 arr = [20, 12, 18, 16, 24, 10, 22, 14]
-
-
-print(select_opt(arr, 2, 0, len(arr)-1))
+arr2 = arr.copy()
+insertion_sort(arr2, 0, len(arr) - 1)
+print(arr2)
+print(select_opt(arr, 6, 0, len(arr)-1))

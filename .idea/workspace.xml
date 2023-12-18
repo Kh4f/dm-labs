@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d3e1a9b-0412-4def-83cb-3fcda04d7a24" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/att2/lab-2.1/lab-2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/att2/lab-2.1/lab-2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/att3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/att3/lab-2.4 (12.62)/lab-2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/att3/lab-2.4 (12.62)/lab-2.4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,7 @@
     "Python.lab-2.3-2.executor": "Run",
     "Python.lab-2.3-all.executor": "Run",
     "Python.lab-2.3.executor": "Run",
+    "Python.lab-2.4-2.executor": "Run",
     "Python.lab-2.4.executor": "Run",
     "Python.main.executor": "Run",
     "Python.perms.executor": "Run",
@@ -60,6 +59,7 @@
     "Python.qs-orig.executor": "Run",
     "Python.right-qs.executor": "Run",
     "Python.sort-test.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
